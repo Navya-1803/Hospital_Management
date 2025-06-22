@@ -1,3 +1,9 @@
+## 👥 Contributors
+
+- [@Navya Raj](https://github.com/Navya-1803)  
+- [@Chaitanya Desai](https://github.com/Chaitanya697)
+
+
 🩺 Hospital Management System | DBMS Course Project
 A database-driven hospital management system built as part of our college DBMS project. This project was developed by a team of two and includes functionalities for managing patients, doctors, appointments, staff, rooms, and billing. It uses MySQL for backend data storage and Python (Tkinter) for the GUI frontend.
 
